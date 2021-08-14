@@ -14,18 +14,36 @@ Many applications now use a web or rest-based exchange of information. However, 
 
 • badchars: ascii characters known to break code/stream execution
 
-## Related Projects
+## Related(ish) Projects
+
+Many of these need to be converted/modernized but lay the framework for poking around at this and that, here and there:
 
 • https://github.com/krypted/contentblockblock: another project used to test bypassing SFContentBlockerManager 
 
 • https://github.com/krypted/DisplayPush: another project used to investigate URIs in APNs 
 
-• https://github.com/krypted/Word-Replacer-Safari-Extension: another project for Safari Extensions. 
+• https://github.com/krypted/Word-Replacer-Safari-Extension: another project for Safari Extensions
+
+• https://github.com/krypted/JSONhashandvalidate: json hashing services
+
+• https://github.com/krypted/lightweightrecommender: Simple recommender for pipelining fuzzing results to a machine learning framework
+
+• https://github.com/krypted/lightweightcategorizer: Categorizing machine learning sample to pipeline results to/from
+
+• https://github.com/krypted/mobileconfigsigner: Signs mobileconfigs for further localized testing options
+
+• https://github.com/krypted/shortcutter: Used to automate iOS "Shortcuts" testing
+
+• https://github.com/krypted/maccvecheck: Lookup cves on a Mac
+
+• https://github.com/krypted/looto: Opposite of otool - looks up dependencies
+
+• https://github.com/krypted/ipasign: re-signs an .ipa bundle
 
 ## Assets From Other Developers/Researchers
 
 • https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/big-list-of-naughty-strings.txt Strings for fuzzing that can be dropped in this project
 
-• https://www.matteomalvica.com/tutorials/buffer_overflow/ One of many fuzzing journeys using the common python ways 
+• https://www.matteomalvica.com/tutorials/buffer_overflow/ One of many fuzzing journeys using the common python options (shorter than most so thought it might be easier to follow along with) 
 
 • Domato: A DOM fuzzer from Google Project Zero https://github.com/googleprojectzero/domato
