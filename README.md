@@ -6,9 +6,11 @@ Many applications now use a web or rest-based exchange of information. However, 
 
 ## Directories/Files in this project
 
-• portscan: Swift-based port scanner
+• portscan1: Swift-based port scanner built using SwiftSocket
 
 • fuzz_SwiftLibrary: A couple of tools using swiftsocket (so pod 'SwiftSocket' in the podfile)
+
+• Fuzz Xcode Project: A full xcode project that is the later evolution of the fuzz_SwiftLibrary
 
 • fuzz_sendstuff: Opens a socket and streams to attempt to open a remote shell
 
