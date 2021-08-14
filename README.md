@@ -14,3 +14,18 @@ Many applications now use a web or rest-based exchange of information. However, 
 
 • badchars: ascii characters known to break code/stream execution
 
+## Related Projects
+
+• https://github.com/krypted/contentblockblock: another project used to test bypassing SFContentBlockerManager 
+
+• https://github.com/krypted/DisplayPush: another project used to investigate URIs in APNs 
+
+• https://github.com/krypted/Word-Replacer-Safari-Extension: another project for Safari Extensions. 
+
+## Assets From Other Developers/Researchers
+
+• https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/big-list-of-naughty-strings.txt Strings for fuzzing that can be dropped in this project
+
+• https://www.matteomalvica.com/tutorials/buffer_overflow/ One of many fuzzing journeys using the common python ways 
+
+• Domato: A DOM fuzzer from Google Project Zero https://github.com/googleprojectzero/domato
