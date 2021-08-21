@@ -10,6 +10,8 @@ Many applications now use a web or rest-based exchange of information. However, 
 
 • buff Xcode Project: A full xcode project (w/ swift package) to send the stream
 
+• executable binaries: Stand-alone executables that can run from the above projects
+
 • badchars: ascii characters known to break code/stream execution
 
 • portscan1: Swift-based port scanner built using SwiftSocket (not yet completed)
