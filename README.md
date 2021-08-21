@@ -14,6 +14,8 @@ Many applications now use a web or rest-based exchange of information. However, 
 
 • fuzz_sendstuff: Opens a socket and streams to attempt to open a remote shell
 
+• buff Xcode Project: A full xcode project (w/ swift package) to send the stream
+
 • badchars: ascii characters known to break code/stream execution
 
 ## Related(ish) Projects
