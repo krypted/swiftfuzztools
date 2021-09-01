@@ -6,9 +6,13 @@ Many applications now use a web or rest-based exchange of information. However, 
 
 ## Directories/Files in this project
 
-• Fuzz Xcode Project: A full xcode project that is the later evolution of the fuzz_SwiftLibrary
+• Fuzz Xcode Project: Xcode project (w/ swift package) that is the later evolution of the fuzz_SwiftLibrary
 
-• buff Xcode Project: A full xcode project (w/ swift package) to send the stream
+• buff Xcode Project: Xcode project (w/ swift package) to send a custom stream (see badchars for ascii)
+
+• Portscan Xcode Project: Xcode project to replicate the built-in stroke functionality in macos
+
+• Tabler Xcode Project: Xcode project to list sqlite tables and their columns from a .db file
 
 • executable binaries: Stand-alone executables that can run from the above projects
 
