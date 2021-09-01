@@ -18,8 +18,6 @@ Many applications now use a web or rest-based exchange of information. However, 
 
 • badchars: ascii characters known to break code/stream execution
 
-• PortScanner: Swift-based port scanner
-
 
 ## Related(ish) Projects
 
